@@ -1,9 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 body, html {
     margin: 0;
     padding: 0;
     background-color: hsl(185, 75%, 39%);
     overflow: hidden;
+    text-align: center;
 } 
+.fontsizedd {
+   
+    font-size: medium;
+    font-weight: 700;
+}
+.unfontsizedd {
+    font-size: smaller;
+    font-weight: 400;
+    align-self: center;
+}
 
 .top {
     top: 0;
